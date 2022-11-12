@@ -1,0 +1,58 @@
+{
+  "courses": [
+    {
+      "name": "Java",
+      "description": "Learn Java",
+      "cost": 1,
+      "account": "0x6089a732e305EEd1FFdA95A31ef3F0C256Eaf50c",
+      "id": 1
+    },
+    {
+      "name": "Blockchain ",
+      "description": "Learn Blockchain",
+      "cost": 2,
+      "account": "0x30D1Ab4b4f414d70BA5e182a188Ef5E5dDaB2CC4",
+      "id": 2
+    },
+    {
+      "name": "C++",
+      "description": "Learn C++",
+      "cost": 2,
+      "account": "0xDA96dEdB4Eab487E4cDD149857883de19c7B47eb",
+      "id": 3
+    },
+    {
+      "name": "Js",
+      "description": "Learn Js",
+      "cost": 2,
+      "account": "0x6089a732e305EEd1FFdA95A31ef3F0C256Eaf50c",
+      "id": 4
+    }
+  ],
+  "airdrops": [
+    {
+      "from": "0x6089a732e305EEd1FFdA95A31ef3F0C256Eaf50c",
+      "to": "0x30D1Ab4b4f414d70BA5e182a188Ef5E5dDaB2CC4",
+      "amount": 10,
+      "id": 1
+    },
+    {
+      "from": "0x6089a732e305EEd1FFdA95A31ef3F0C256Eaf50c",
+      "to": "0xDA96dEdB4Eab487E4cDD149857883de19c7B47eb",
+      "amount": 20,
+      "id": 2
+    },
+    {
+      "from": "0x6089a732e305EEd1FFdA95A31ef3F0C256Eaf50c",
+      "to": "0xDA96dEdB4Eab487E4cDD149857883de19c7B47eb",
+      "amount": 30,
+      "id": 3
+    },
+    {
+      "from": "0x6089a732e305EEd1FFdA95A31ef3F0C256Eaf50c",
+      "to": "0xDA96dEdB4Eab487E4cDD149857883de19c7B47eb",
+      "amount": 40,
+      "id": 4
+    }
+  ]
+}
